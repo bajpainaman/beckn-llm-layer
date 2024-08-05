@@ -1,6 +1,4 @@
-Here's a complete `README.md` for your project:
 
-```markdown
 # beckn-llm-layer
 
 This project implements an Adaptive RAG (Retrieval-Augmented Generation) system using LangChain and various other libraries.
@@ -92,6 +90,3 @@ This project utilizes the following libraries:
 - Tavily-Python
 
 Special thanks to the developers and contributors of these libraries for their invaluable tools and resources.
-```
-
-This `README.md` provides a clear overview of the project, its structure, installation steps, configuration, usage, and acknowledgments. It should be helpful for anyone looking to understand and run your project.
